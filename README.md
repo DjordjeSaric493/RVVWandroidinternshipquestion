@@ -2,7 +2,10 @@
 easy asignment, I messed up 
 
 evo kolika sam dijabola, prelak zadatak bio a pogubio se
+
+
 package org.example
+![image](https://github.com/user-attachments/assets/1ebd20ed-61a2-4095-a1c8-16f29607839e)
 
 
 /**
